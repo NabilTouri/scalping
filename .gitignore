@@ -1,0 +1,7 @@
+#Python
+.venv
+myenv
+__pycache__
+
+# Historical data
+*.csv
